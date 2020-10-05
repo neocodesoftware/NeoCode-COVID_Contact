@@ -14,6 +14,8 @@ pass: admin
 # Requirements
 FileMaker Server 18+
 
+FileMaker Pro 18+
+
 These docs assume your server name is host.com
 
 # Client URLS
