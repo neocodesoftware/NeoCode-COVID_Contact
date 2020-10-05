@@ -1,3 +1,5 @@
+![Splash Screen](https://user-images.githubusercontent.com/597763/95042776-c3343280-068f-11eb-9665-358d9152a495.png?raw=true)
+
 # NeoCode-COVID_Contact
 COVID Contact and Case Management System
 
