@@ -1,6 +1,8 @@
 # NeoCode-COVID_Contact
 COVID Contact and Case Management System
 
+Neo Code Covid Contact is a contact and case management app built in 24 hours in response to an inquiry from BC's Provincial Health Service Authority. 
+
 The COVID Contact and Case Management System is based on the http://www.bccdc.ca/Documents/COVID-19_Case_Report_Form.pdf
 
 # Credentials
